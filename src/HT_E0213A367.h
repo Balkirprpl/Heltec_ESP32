@@ -292,7 +292,6 @@ private:
 
 	void sendScreenRotateCommand()
 	{
-		if (angle)
 	}
 
 	inline void sendCommand(uint8_t com) __attribute__((always_inline))
